@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 89D0F2C50F40E784007831A7 /* jAppleMenuBar */;
+		activeTarget = 89D0F1C90F3B704E007831A7 /* jAppleMenuBar */;
+		addToTargets = (
+			89D0F1C90F3B704E007831A7 /* jAppleMenuBar */,
+			89D0F04F0F393AD9007831A7 /* Compile Native */,
+		);
+		codeSenseManager = 89D0F2CF0F40E7A1007831A7 /* Code sense */;
+		executables = (
+			89D0F2C50F40E784007831A7 /* jAppleMenuBar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					906,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					866,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 280937328;
+			PBXWorkspaceStateSaveDate = 280937328;
+		};
+		perUserProjectItems = {
+			BA2AEE2D10BEC36400F80733 /* PBXTextBookmark */ = BA2AEE2D10BEC36400F80733 /* PBXTextBookmark */;
+			BA2AEE2F10BEC36400F80733 /* PBXTextBookmark */ = BA2AEE2F10BEC36400F80733 /* PBXTextBookmark */;
+			BA2AEE3510BEC36400F80733 /* PBXTextBookmark */ = BA2AEE3510BEC36400F80733 /* PBXTextBookmark */;
+			BA2AEE7210BEED1000F80733 /* PBXTextBookmark */ = BA2AEE7210BEED1000F80733 /* PBXTextBookmark */;
+			BA2AEE7310BEED1000F80733 /* PBXTextBookmark */ = BA2AEE7310BEED1000F80733 /* PBXTextBookmark */;
+			BA2AEE7410BEED1000F80733 /* PBXTextBookmark */ = BA2AEE7410BEED1000F80733 /* PBXTextBookmark */;
+			BABBD30C10BDE1FD00B58677 /* PBXTextBookmark */ = BABBD30C10BDE1FD00B58677 /* PBXTextBookmark */;
+			BABBD35C10BDE66D00B58677 /* PBXTextBookmark */ = BABBD35C10BDE66D00B58677 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 89D0F2CE0F40E7A1007831A7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	89D0F0230F392F20007831A7 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {863, 821}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{0, 1078}";
+			sepNavWindowFrame = "{{15, -5}, {922, 878}}";
+		};
+	};
+	89D0F0480F393A6F007831A7 /* Compile Java */ = {
+		activeExec = 0;
+	};
+	89D0F04F0F393AD9007831A7 /* Compile Native */ = {
+		activeExec = 0;
+	};
+	89D0F1C90F3B704E007831A7 /* jAppleMenuBar */ = {
+		activeExec = 0;
+	};
+	89D0F2C50F40E784007831A7 /* jAppleMenuBar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = jAppleMenuBar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProductDirectory>>";
+	};
+	89D0F2CE0F40E7A1007831A7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	89D0F2CF0F40E7A1007831A7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107260486CEB800E47090 /* Assemble Application */ = {
+		activeExec = 0;
+		executables = (
+			89D0F2C50F40E784007831A7 /* jAppleMenuBar */,
+		);
+	};
+	BA2AEE0C10BEC06A00F80733 /* build.xml */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = build.xml;
+		path = /Users/hansi/Documents/xcode/jAppleMenuBar/make/build.xml;
+		sourceTree = "<absolute>";
+	};
+	BA2AEE2D10BEC36400F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BA2AEE0C10BEC06A00F80733 /* build.xml */;
+		name = "build.xml: 2";
+		rLen = 0;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 0;
+	};
+	BA2AEE2F10BEC36400F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BA2AEE3010BEC36400F80733 /* jAppleMenuBar.java */;
+		name = "jAppleMenuBar.java: 5";
+		rLen = 0;
+		rLoc = 80;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 0;
+	};
+	BA2AEE3010BEC36400F80733 /* jAppleMenuBar.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = jAppleMenuBar.java;
+		path = /Users/hansi/Documents/xcode/jAppleMenuBar/src/java/com/example/jAppleMenuBar.java;
+		sourceTree = "<absolute>";
+	};
+	BA2AEE3510BEC36400F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BABBD2D610BDE03A00B58677 /* jAppleMenuBar.h */;
+		name = "jAppleMenuBar.h: 1";
+		rLen = 765;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 0;
+	};
+	BA2AEE3810BEC36400F80733 /* jAppleMenuBar.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = jAppleMenuBar.java;
+		path = /Users/hansi/Documents/xcode/jAppleMenuBar/src/java/jAppleMenuBar/jAppleMenuBar.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 540}}";
+			sepNavSelRange = "{789, 0}";
+			sepNavVisRange = "{0, 1236}";
+		};
+	};
+	BA2AEE7210BEED1000F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BA2AEE3810BEC36400F80733 /* jAppleMenuBar.java */;
+		name = "jAppleMenuBar.java: 22";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	BA2AEE7310BEED1000F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BABBD2D510BDE03A00B58677 /* jAppleMenuBar.m */;
+		name = "jAppleMenuBar.m: 2";
+		rLen = 0;
+		rLoc = 6;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 0;
+	};
+	BA2AEE7410BEED1000F80733 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BABBD2D510BDE03A00B58677 /* jAppleMenuBar.m */;
+		name = "jAppleMenuBar.m: 20";
+		rLen = 0;
+		rLoc = 765;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 0;
+	};
+	BABBD2D510BDE03A00B58677 /* jAppleMenuBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 540}}";
+			sepNavSelRange = "{765, 0}";
+			sepNavVisRange = "{0, 1216}";
+		};
+	};
+	BABBD2D610BDE03A00B58677 /* jAppleMenuBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 545}}";
+			sepNavSelRange = "{0, 765}";
+			sepNavVisRange = "{0, 793}";
+		};
+	};
+	BABBD2EA10BDE0F300B58677 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	BABBD30C10BDE1FD00B58677 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BABBD2EA10BDE0F300B58677 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 180";
+		rLen = 0;
+		rLoc = 6179;
+		rType = 0;
+		vrLen = 1591;
+		vrLoc = 5529;
+	};
+	BABBD32210BDE64100B58677 /* jni.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = jni.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/JavaVM.framework/Versions/1.3.1/Headers/jni.h;
+		sourceTree = "<absolute>";
+	};
+	BABBD35C10BDE66D00B58677 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BABBD32210BDE64100B58677 /* jni.h */;
+		name = "jni.h: 118";
+		rLen = 0;
+		rLoc = 2766;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 2243;
+	};
+}
