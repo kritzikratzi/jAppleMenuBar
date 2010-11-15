@@ -42,7 +42,7 @@
 		</not>
 	</condition>
 	
-	<condition property="product" value="AddressBook">
+	<condition property="product" value="jAppleMenuBar">
 		<not>
 			<isset property="product"/>
 		</not>

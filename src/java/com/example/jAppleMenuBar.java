@@ -14,8 +14,6 @@ package com.example;
 
 import javax.swing.SwingUtilities;
 
-import com.example.app.ApplicationController;
-
 /**
  * Starting point for the application. General initialization should be done inside
  * the ApplicationController's init() method. If certain kinds of non-Swing initialization
