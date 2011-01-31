@@ -25,12 +25,16 @@
 
 
 JNIEXPORT void JNICALL Java_japplemenubar_JAppleMenuBar_setVisible
-(JNIEnv *env, jclass clazz, jboolean visible)
+(JNIEnv *env, jclass clazz, jboolean visible, jboolean kioskMode)
 {
 	if( visible == JNI_TRUE ){
         SetSystemUIMode(kUIModeNormal, 0);
 	}
 	else{
-		SetSystemUIMode(kUIModeAllHidden, 0);
+        SetSystemUIMode(kUIModeAllHidden, (kioskMode == JNI_TRUE) ?
+						( kUIOptionDisableAppleMenu
+						| kUIOptionDisableProcessSwitch
+						| kUIOptionDisableForceQuit
+						| kUIOptionDisableSessionTerminate) : 0);						
 	}
 }
